@@ -1,0 +1,22 @@
+{
+  "name": "general",
+  "version": "1.0.0",
+  "description": "general algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrvea/general-algorithms.git"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "Evgeniy Vakhroushev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrvea/general-algorithms/issues"
+  },
+  "homepage": "https://github.com/mrvea/general-algorithms#readme"
+}
